@@ -1,7 +1,7 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PurSF_jJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h9hrqci095gjctvz9pmz.gif)
+[![MasterHead](https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966)
 <h1 align="center">Hi 👋, I'm Nouman Mullaji</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLA5gGizu3vr2xre8iiuWW8NOBQwEq20UclLiaRllxbT5hyYpgt15pHGxZhl6uTxo-_zM&usqp=CAU">
+<img align="right" alt="Coding" width="400" src ="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03nouman&label=Profile%20views&color=0e75b6&style=flat" alt="03nouman" /> </p>
 
