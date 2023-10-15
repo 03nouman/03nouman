@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03nouman&label=Profile%20views&color=0e75b6&style=flat" alt="03nouman" /> </p>
 
-- 🌱 I’m growing as Front-End developer
+- 🌱 I’m growing as p4ofessinal Front-End developer
 
 - 💬 Ask me about **MERN**
 
