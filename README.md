@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03nouman&label=Profile%20views&color=0e75b6&style=flat" alt="03nouman" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m growing as Front-End developer
 
 - 💬 Ask me about **MERN**
 
